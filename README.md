@@ -1,2 +1,2 @@
 # septoria_modeling
-Parastagonospora nodorum, Parastagonospora avenae, Zymoseptoria tritici occurence models
+Project consists of metheorogical data interpolation and occurence models for Parastagonospora nodorum, Parastagonospora avenae, Zymoseptoria tritici. 
